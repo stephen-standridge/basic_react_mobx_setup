@@ -78,6 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [Intro to Mobx](https://mobx.js.org/getting-started)
 [Mobx root with Context](https://codingislove.com/setup-mobx-react-context/)
 [Intro to Axios](https://axios-http.com/docs/intro)
+[Reactstrap](https://reactstrap.github.io/?path=/docs/home-themes--page)
 [Config for decorators](https://swizec.com/blog/how-to-use-mobx-with-createreactapp/)
 
 
