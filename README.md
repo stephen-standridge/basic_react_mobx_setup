@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#Extras
+## Additions to this config
+- Packages: mobx, mobx-react, axios, reactstrap
+- Support: babel config for decorators
+
+## Additional Links
+[Intro to Mobx](https://mobx.js.org/getting-started)
+[Mobx root with Context](https://codingislove.com/setup-mobx-react-context/)
+[Intro to Axios](https://axios-http.com/docs/intro)
+[Config for decorators](https://swizec.com/blog/how-to-use-mobx-with-createreactapp/)
+
+
